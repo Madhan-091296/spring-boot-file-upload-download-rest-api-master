@@ -7,7 +7,7 @@
 **1. Clone the repository** 
 
 ```bash
-git clone https://github.com/pavanoltraining/spring-boot-file-upload-download-rest-api.git
+git clone https://github.com/Madhan-091296/spring-boot-file-upload-download-rest-api.git
 ```
 
 **2. Specify the file uploads directory**
